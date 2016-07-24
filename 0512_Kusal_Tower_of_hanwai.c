@@ -1,3 +1,10 @@
+/* 
+*
+*	Program: To show the solution of Tower of Hanoi problem using recursive method.
+* 	Author Kusal Bista
+* 	Date: 07/18/2016
+*   Ref: Data Structure using C and C++,chap 3, page 144,145
+*/
 #include<stdio.h>
 void towers(int,char, char,char);
 int main()
